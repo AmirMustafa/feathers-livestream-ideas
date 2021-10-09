@@ -4,7 +4,7 @@
   "main": "app.js",
   "devDependencies": {},
   "scripts": {
-    "start": "nodemon start"
+    "start": "nodemon app"
   },
   "keywords": [],
   "author": "",
